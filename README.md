@@ -1,5 +1,11 @@
-# argus
-who watches the watchers?
+![peacock logo](pk.png)
+
+## running
+
+```
+cargo build
+target/debug/argus
+```
 
 ## features
 - [x] encrypted p2p chat
