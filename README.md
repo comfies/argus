@@ -1,4 +1,4 @@
-![peacock logo](pk.png)
+![peacock logo](pkc.png)
 
 ## running
 
